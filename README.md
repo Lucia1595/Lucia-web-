@@ -1,7 +1,7 @@
 <h1>Repositorio de trabajo del módulo de Periodismo de Datos II</h1>
 
 
-##Actividades dirigidas 
+<h5>Actividades dirigidas </h5>
 
 
 [Actividad dirigida 1](ad1.md)
