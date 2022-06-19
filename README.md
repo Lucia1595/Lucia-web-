@@ -1,3 +1,16 @@
+#Repositorio de trabajo del módulo de Periodismo de Datos II
+
+
+##Actividades dirigidas 
+[Actividad dirigida 1](ad1.md)
+[Actividad dirigida 2](ad2.md)
+
+
+
+
+
+
+
 # Lucia-web-
 <h1>Escasez de agua en África</h1>
 
