@@ -10,6 +10,9 @@
 [Actividad dirigida 2](ad2.md)
 
 
+[Actividad dirigida 3](ad3.ipynb)
+
+
 
 
 
