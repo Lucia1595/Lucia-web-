@@ -10,7 +10,8 @@
 [Actividad dirigida 2](ad2.md)
 
 
-[Actividad dirigida 3](ad3.ipynb)
+[Actividad dirigida 3](ad3.md)
+
 
 [Actividad dirigida 4](api-covid-pandas\ .ipynb)
 
